@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shopData>
+
+<furniture>
+    <object name="Comodino" 		instance="comodino" 	rows="2"  cols="2" cost="100"/>
+    <object name="Queen-Size Bed" 	instance="queenbed" 	rows="12" cols="8" cost="1000"/>
+    <object name="Small Bed" 		instance="smallbed" 	rows="10" cols="4" cost="400"/>
+    <object name="Wardrobe" 		instance="wardrobe" 	rows="10" cols="4" cost="600"/>
+    <object name="Chair" 			instance="chair" 		rows="4"  cols="4" cost="300"/>
+    <object name="Bookshelf" 		instance="bookshelf" 	rows="6"  cols="2" cost="200"/>
+    <object name="Desk" 			instance="desk" 		rows="4"  cols="2" cost="150"/>  
+</furniture>
+</shopData>

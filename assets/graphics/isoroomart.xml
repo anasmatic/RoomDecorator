@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:54854f6539172db69936945bf5256635:5d4dde98e767da1bb970004757d93a08:d29ef3f05555bc8efc436baa43134040$ -->
+<TextureAtlas imagePath="isoroomart.png">
+    <SubTexture name="corner_bottom" x="2" y="54" width="31" height="16"/>
+    <SubTexture name="corner_left" x="101" y="20" width="23" height="16" frameX="-8" frameY="0" frameWidth="31" frameHeight="16"/>
+    <SubTexture name="corner_right" x="101" y="2" width="23" height="16" frameX="0" frameY="0" frameWidth="31" frameHeight="16"/>
+    <SubTexture name="corner_top" x="68" y="38" width="31" height="16"/>
+    <SubTexture name="floor" x="2" y="2" width="64" height="32"/>
+    <SubTexture name="wall_leftbottom" x="35" y="36" width="31" height="16"/>
+    <SubTexture name="wall_lefttop" x="2" y="36" width="31" height="16"/>
+    <SubTexture name="wall_rightbottom" x="68" y="20" width="31" height="16"/>
+    <SubTexture name="wall_righttop" x="68" y="2" width="31" height="16"/>
+</TextureAtlas>

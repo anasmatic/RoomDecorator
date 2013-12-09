@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:bf0fc7d5bb895c51816a8894e2129dca:0f60337848f694302e46461788271e9d:889ce19b3f2ff080480fa57e66cb7d59$ -->
+<TextureAtlas imagePath="furniture.png">
+    <SubTexture name="bookshelf" x="2" y="2" width="129" height="75"/>
+    <SubTexture name="chair" x="133" y="2" width="128" height="64"/>
+    <SubTexture name="comodino" x="263" y="2" width="64" height="32"/>
+    <SubTexture name="desk" x="329" y="2" width="96" height="50"/>
+    <SubTexture name="queenbed" x="2" y="79" width="320" height="160"/>
+    <SubTexture name="smallbed" x="2" y="241" width="224" height="112"/>
+    <SubTexture name="wardrobe" x="228" y="241" width="224" height="112"/>
+</TextureAtlas>

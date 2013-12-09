@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6262b9e66cb0a974fda92fbafb92d521:074ecf61cb589d9acca3e38a539652b1:bd8d40a6129aaf0f855337289d4ba255$ -->
+<TextureAtlas imagePath="gamemenus.png">
+    <SubTexture name="hud" x="2" y="2" width="177" height="32"/>
+    <SubTexture name="shopbg" x="2" y="70" width="50" height="100"/>
+    <SubTexture name="shopbtncloseicon" x="2" y="36" width="38" height="32"/>
+    <SubTexture name="shopbtncloseskin" x="54" y="70" width="66" height="66"/>
+    <SubTexture name="shopbtnopenicon" x="122" y="36" width="46" height="36"/>
+    <SubTexture name="shopbtnopenskin" x="2" y="172" width="66" height="66"/>
+    <SubTexture name="shopitemskin" x="181" y="2" width="66" height="66"/>
+</TextureAtlas>
